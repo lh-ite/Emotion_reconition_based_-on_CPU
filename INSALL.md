@@ -1,4 +1,3 @@
-INSTALL
 程序名称：Emotion_Recognition
 Anaconda3
 需要安装的包
